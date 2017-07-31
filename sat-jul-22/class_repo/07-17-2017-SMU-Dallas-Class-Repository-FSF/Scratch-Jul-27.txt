@@ -1,0 +1,6 @@
+Scratch
+
+COntainer =1
+start with row
+alternate colums and rows
+never need to have rows within rows directly of colums
