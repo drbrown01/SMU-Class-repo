@@ -1,0 +1,17 @@
+1. make letters correlate to keys
+2. a
+
+
+create inputs
+
+global- trigger
+
+reWriteStats()
+logs-
+make
+model
+color
+
+isWorking
+
+document.onkeyup()-  collect user input
