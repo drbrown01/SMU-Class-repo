@@ -1,0 +1,19 @@
+string = "string"
+number =
+
+defines where a block of code starts and ends ={}
+functions require =() {like this "function(argument)" }
+
+myFunction(myArg)
+
+arg = argument
+keyword =a "key connector" for a particular data attribute
+
+boolean= TRUE or False
+integer = number
+string = "group of characters can be letters or numbers"
+
+11 +1=
+11 + "string"= does not = a number..!!
+
+concatonates = adding the things together ("string"+ " " +"string")= stringstring
